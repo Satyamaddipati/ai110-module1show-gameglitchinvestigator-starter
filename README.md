@@ -47,6 +47,10 @@ The game is a number-guessing game where the player tries to guess a randomly ge
 !## 📸 Demo
 
 ![Game Screenshot](image.png)
+![Game Screenshot](image1.png)
+
+![Game Screenshot](image2.png)
+
 
 ## 🚀 Stretch Features
 
