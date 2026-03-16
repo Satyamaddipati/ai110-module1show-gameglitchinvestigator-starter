@@ -44,7 +44,9 @@ The game is a number-guessing game where the player tries to guess a randomly ge
 
 - [ ] [Insert a screenshot of your fixed, winning game here]
 
-![alt text](Screenshot 2026-03-16 at 01.31.09.png)
+!## 📸 Demo
+
+![Game Screenshot](image.png)
 
 ## 🚀 Stretch Features
 
